@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# Dictionary of Time Series
 
 Here is to collect methods of time series analysis
 
